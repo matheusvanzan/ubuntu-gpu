@@ -14,7 +14,7 @@ After that, you can proceed to the [driver download page](https://www.nvidia.co
 $ nvidia-smi
 ```
 
-## Sample Code to check GPU usage
+## Sample Code
 
 ### Using PyTorch
 
